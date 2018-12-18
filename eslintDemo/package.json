@@ -1,0 +1,19 @@
+{
+  "name": "eslintdemo",
+  "version": "1.0.0",
+  "description": "eslint demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e": "eslint src/**"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "boat",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0"
+  }
+}
