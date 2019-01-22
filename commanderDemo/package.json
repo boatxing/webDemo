@@ -1,0 +1,17 @@
+{
+  "name": "commanderdemo",
+  "version": "1.0.0",
+  "description": "commander test",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "commander"
+  ],
+  "author": "boat",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}

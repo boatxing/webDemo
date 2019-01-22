@@ -6,6 +6,6 @@ function test() {
     })
 }
 
-async function foo () {}
+//async function foo () {}
 
 export { test }
